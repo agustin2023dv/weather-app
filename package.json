@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "weather app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agustin2023dv/weather-app.git"
+  },
+  "author": "agustin2023dv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agustin2023dv/weather-app/issues"
+  },
+  "homepage": "https://github.com/agustin2023dv/weather-app#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
